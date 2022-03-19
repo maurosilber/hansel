@@ -1,0 +1,9 @@
+# Hidden files/directories
+.*
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Python instalation files
+*.egg*
