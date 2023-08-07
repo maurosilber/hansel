@@ -24,7 +24,6 @@ conditions = {
 
 
 for msg, functions in conditions.items():
-
     print(msg)
     print("=" * (len(msg) + 2))
 
